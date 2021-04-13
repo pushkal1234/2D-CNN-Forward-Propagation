@@ -1,4 +1,4 @@
-
+// Main C file Implementaion of CNN
 
 #include "headers/weights.h"
 #include "headers/defines.h"
